@@ -21,7 +21,7 @@ vscode中对git进行了集成，很多操作只需点击就能操作，无需�
 >> (6) 在你第一次使用时点击推送或者执行上条push的命令时会弹出github的登入框，输入用户名密码（在vscode中每次push都要输入用户名密码，这里可以执行git命令让git软件记住密码）如下:`git config --global credential.helper store`,后面就不需要密码了。
 >> (7) 执行到这里就可以到github上面查看你刚才新建的github仓库了，点开里面就是你的项目了，success
 
-5. vscode因为集成了git所以vscode的有些按钮可替代上面输入的git命令。加号->对勾->pull
+5. vscode因为集成了git所以vscode的有些按钮可替代上面输入的git命令。<font color='red'>加号->对勾->pull</font>
 
 ## 问题
 
