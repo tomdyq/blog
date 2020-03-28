@@ -56,7 +56,7 @@
 > * Benchmarks
 >>
 >> * Person Restaurant
->> * [small version of IIMB in OAEI 2010]( http://oaei.ontologymatching.org/)
+>> * [small version of IIMB in OAEI 2010](http://oaei.ontologymatching.org/)
 >
 > * real-world datasets
 >
